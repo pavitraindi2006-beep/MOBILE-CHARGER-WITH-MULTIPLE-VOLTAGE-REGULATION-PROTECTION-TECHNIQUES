@@ -1,0 +1,2 @@
+# MOBILE-CHARGER-WITH-MULTIPLE-VOLTAGE-REGULATION-PROTECTION-TECHNIQUES
+Designed and implemented a regulated 5V mobile charger using a transformer, bridge rectifier, filter capacitor, and Zener/linear regulators. Added BJT and MOSFET-based short-circuit and over-current protection, simulated the circuit, fabricated it on PCB, and verified stable 5V output and safe operation under normal and fault conditions in testing.
